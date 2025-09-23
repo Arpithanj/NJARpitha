@@ -1,0 +1,21 @@
+
+HI AM ARPITHA N J 
+
+
+Aspiring AI/ML Engineer|Turning Ideas into Innovation|computer Science and Engineering graduate with a Vision for the Future 
+
+
+
+MY TECHNICAL SKILLS ARE
+
+Programming Languages: Python, Java, SQL, JavaScript
+ 
+ Web Development: Django, HTML, CSS, JavaScript
+ 
+ Databases: MySQL, MongoDB
+ 
+ Data Science & AI/ML: Machine Learning, Deep Learning, Data Analysis, Feature Engineering
+ 
+ Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+ 
+ Tools & Platforms: Jupyter Notebook, Google Colab, Git/GitHub,Tableau,MS Excel

@@ -15,6 +15,10 @@ Programming Languages: Python, Java, SQL, JavaScript
  Databases: MySQL, MongoDB
  
  Data Science & AI/ML: Machine Learning, Deep Learning, Data Analysis, Feature Engineering
+
+
+
+hlooo 
  
  Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
  
